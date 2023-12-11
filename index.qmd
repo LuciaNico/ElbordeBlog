@@ -1,5 +1,5 @@
 ---
-title: "quartoCourseBlog"
+title: "Guillermo Perez Algorta Blog"
 listing:
   contents: posts
   sort: "date desc"

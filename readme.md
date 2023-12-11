@@ -137,11 +137,12 @@ I am planning to add a video overview of these steps soon. In the meantime, thes
 -   You will also need to authenticate your git credentials, and allow Rstudio cloud to update your github repository
 -   In the terminal run these two lines, but replace with your name and email
 
-```{=html}
 <!-- -->
+
+```         
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
 ```
-    git config --global user.name "Your Name"
-    git config --global user.email "you@example.com"
 
 -   When you "push" your changes back to Github using the green up arrow, you will be asked to enter a username and password. You can enter the username for your Github.com account, **but your password won't work**. You need to set up a personal access token.
 -   Go to your github.com profile \> settings page. Scroll down, click on "\<\> Developer Settings", on the left
