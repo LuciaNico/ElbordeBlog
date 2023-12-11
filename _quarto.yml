@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "quartoCourseBlog"
+  title: "Guillermo Perez Algorta Blog"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/CrumpLab/quartoCourseBlog
+        href: https://github.com/LuciaNico/ElbordeBlog
       - icon: twitter
-        href: https://twitter.com/MattCrumpLab
+        href: https://twitter.com/Guillermo_inUK
 format:
   html:
     theme: minty
